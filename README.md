@@ -14,3 +14,6 @@ The user also has the option of specifying chunk sizes to split up the compuatio
 
 The simulated data can be found in ```results_new_sims/sims_flies``` in a directory according to its true value of p11, rho, and h1 and h2. The simulated effect sizes are under the column "BETA_STD" as part of a dataframe with other useful information. 
 
+Example:
+```python steps_new.py --h1 .25 --h2 .25 --rho 0 --p00 .97 --p10 .01 --p01 .01 --p11 .01 --seed 1 --sim_num 1 --chr_i 3 --chunk_size_snp 1000 --chunk_size_ind 600 --bed_file chr3.bed --mean_std_file mean_std_file.txt```
+
