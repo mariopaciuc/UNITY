@@ -2,7 +2,8 @@
 
 # Dependencies
 
-The required versions of various packages can be found in ```pip_freeze.txt```
+The required versions of various packages can be found in ```pip_freeze.txt```. 
 
 # Installing
+
 
