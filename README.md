@@ -4,7 +4,9 @@
 
 The required versions of various packages can be found in ```pip_freeze.txt```. 
 
-Run ```git clone https://github.com/mariopaciuc/Unity_simulations.git``` to donlowad the Unity simulator and ```cd Unity_simulations``` to proceed. 
+To download the Unity simulator, run
+```git clone https://github.com/mariopaciuc/Unity_simulations.git```  
+and ```cd Unity_simulations``` to proceed. 
 
 # Simulating Data
 
